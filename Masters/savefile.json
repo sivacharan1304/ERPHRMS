@@ -1,0 +1,49 @@
+{
+    "counters": {
+      "u_content_image": 4,
+      "u_content_text": 14,
+      "u_content_divider": 4,
+      "u_content_button": 5,
+      "u_column": 14,
+      "u_row": 11
+    },
+    "body": {
+      "rows": [
+      
+  
+       
+      ],
+      "values": {
+        "backgroundColor": "#ffffff",
+        "backgroundImage": {
+          "url": "",
+          "fullWidth": true,
+          "repeat": false,
+          "center": true,
+          "cover": false
+        },
+        "contentWidth": "600px",
+        "contentAlign": "center",
+        "fontFamily": {
+          "label": "Montserrat",
+          "value": "'Montserrat',sans-serif",
+          "type": "google",
+          "weights": "400,700"
+        },
+        "preheaderText": "",
+        "linkStyle": {
+          "body": true,
+          "linkColor": "#0000ee",
+          "linkHoverColor": "#0000ee",
+          "linkUnderline": true,
+          "linkHoverUnderline": true
+        },
+        "_meta": {
+          "htmlID": "u_body",
+          "htmlClassNames": "u_body"
+        }
+      }
+    },
+    "schemaVersion": 5
+  }
+  
